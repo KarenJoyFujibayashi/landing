@@ -1,0 +1,23 @@
+.banner{
+  background-position: 50% 50%;
+  background-size: cover;
+  padding: 100px;
+  color: white;
+  margin-bottom: 40px;
+  text-shadow:0 0 4px black;
+  height: 300px;
+}
+.banner h1, .banner p{
+  margin: 0;
+}
+.banner p{
+  margin-bottom: 25px;
+}
+
+.banner a{
+  color: white;
+}
+.banner:hover{
+  box-shadow:  0 0 20px black;
+  color:gray;
+}

@@ -1,0 +1,10 @@
+.btn-banner{
+  border-radius: 50px;
+  background-color: #00ff6a;
+  padding: 12px 20px;
+  transition: 1s;
+  border: 2px solid green;
+}
+.btn-banner:hover{
+ background-color: pink;
+}
